@@ -1,6 +1,6 @@
 # Metex-ESP8266 
 
-
+WIFI USB Metex M-3850D dataloger 
 
 ## Začíname
 
