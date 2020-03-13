@@ -1,6 +1,6 @@
 # Metex-ESP8266 
 
-*Read this in other languages: [English](README.md), *
+*Read this in other languages: [English](README.md),*
 
 
 [Project website](https:/-/)
