@@ -1,8 +1,5 @@
 # Metex-ESP8266 
 
-
-# Project Title
-
 *Read this in other languages: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
 
 One or two paragraphs of project description goes here. Talk about the scope of the problem that you are addressing and include any relevant NGO definitions of existing goals or initiatives. Describe the impact of the problem on human lives and the wellbeing of communities.
@@ -20,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+[Setting up the Arduino IDE to program ESP8266](https://www.instructables.com/id/Setting-Up-the-Arduino-IDE-to-Program-ESP8266/)
 ```
 
 ### Installing
