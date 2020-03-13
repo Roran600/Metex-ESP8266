@@ -1,12 +1,9 @@
 # Metex-ESP8266 
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
+*Read this in other languages: [English](README.md), *
 
-One or two paragraphs of project description goes here. Talk about the scope of the problem that you are addressing and include any relevant NGO definitions of existing goals or initiatives. Describe the impact of the problem on human lives and the wellbeing of communities.
 
-Then explain the anticipated or proven impact of your solution, and explaining in particular the novel or innovative advantage this has over existing solutions that make it attractive to developers and users (such as potential customers).
-
-[Project website](https://code-and-response.github.io/Project-Sample/)
+[Project website](https:/-/)
 
 ## Getting Started
 
@@ -16,9 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
 [Setting up the Arduino IDE to program ESP8266](https://www.instructables.com/id/Setting-Up-the-Arduino-IDE-to-Program-ESP8266/)
-```
+
 
 ### Installing
 
@@ -38,47 +34,10 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Roran60** - *Initial work* 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
